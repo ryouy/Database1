@@ -13,6 +13,6 @@ print('Die 2:', dice2)
 print('Total value:', sum)
 
 if sum > 7:
-    print('You won.')
+    print(name, 'won.')
 else:
-    print('You lost.')
+    print(name, 'lost.')
